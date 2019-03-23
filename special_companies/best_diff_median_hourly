@@ -1,0 +1,52 @@
+	EmployerName	Address	CompanyNumber	SicCodes	DiffMeanHourlyPercent	DiffMedianHourlyPercent	DiffMeanBonusPercent	DiffMedianBonusPercent	MaleBonusPercent	FemaleBonusPercent	MaleLowerQuartile	FemaleLowerQuartile	MaleLowerMiddleQuartile	FemaleLowerMiddleQuartile	MaleUpperMiddleQuartile	FemaleUpperMiddleQuartile	MaleTopQuartile	FemaleTopQuartile	CompanyLinkToGPGInfo	ResponsiblePerson	EmployerSize	CurrentName	SubmittedAfterTheDeadline	DueDate	DateSubmitted
+2190	Realise Futures Cic	"Realise Futures Cic,
+Lovetofts Drive,
+Ipswich,
+England,
+IP1 5NZ"	07828443	"56102,
+82990,
+85590"	-39.5	-90.7	0.0	0.0	0.0	0.0	54.1	45.9	41.7	58.3	21.2	78.8	9.5	90.5	https://www.realisefutures.org	Ramon Garcia (Human Resources Manager)	250 to 499	Realise Futures Cic	False	05/04/2019 00:00:00	15/03/2019 11:21:14
+3205	YELLOW DOT HOLDINGS LIMITED	"2, Crown Court,
+Crown Way,
+Rushden,
+Northamptonshire,
+England,
+NN10 6BS"	11159598	64209	-39.7	-80.7	-66.0	-636.4	66.7	64.7	19.8	80.2	6.1	93.9	1.2	98.8	2.4	97.6	https://www.brighthorizons.co.uk/statutory-information/gender-pay-gap	John Handley (HR Director)	250 to 499	YELLOW DOT HOLDINGS LIMITED	False	05/04/2019 00:00:00	15/03/2019 15:24:35
+818	Ducas Ltd	"The Meeting House,
+Little Mount Sion,
+Tunbridge Wells,
+Kent,
+England,
+TN1 1YS"	06126794	82990	-21.7	-67.5	0.0	0.0	0.0	0.0	60.7	39.3	36.8	63.2	22.8	77.2	15.8	84.2		Simon Bailey (Managing Director)	Less than 250	Ducas Ltd	False	05/04/2019 00:00:00	14/01/2019 12:50:49
+2090	PONTRILAS SAWMILLS LIMITED	"Pontrilas,
+Herefordshire,
+United Kingdom,
+HR2 0BE"	00457573	16100	-16.7	-59.2	100.0	100.0	80.3	0.0	100.0	0.0	98.4	1.6	100.0	0.0	77.8	22.2	http://www.pontrilassawmills.co.uk/corporate/health-safety.php	Eric Hilton (Finance Director)	250 to 499	PONTRILAS SAWMILLS LIMITED	False	05/04/2019 00:00:00	18/03/2019 14:25:28
+2949	TURNER BIANCA PLC	"Bell Mill, Claremont Street,
+Hathershaw,Oldham,
+Lancashire,
+OL8 3EJ"	00473824	46410	-19.5	-53.9	40.9	-30.0	90.7	88.8	82.4	17.6	67.6	32.4	33.8	66.2	32.4	67.6		KEITH WALMSLEY (FINANCE AND OPERATIONS DIRECTOR)	250 to 499	TURNER BIANCA PLC	False	05/04/2019 00:00:00	10/01/2019 12:19:40
+2240	RITTER-COURIVAUD LIMITED	"Equity House, Irthlingborough Road,
+Wellingborough,
+Northamptonshire,
+NN8 1LT"	00363411	46380	-20.3	-52.5	51.2	72.9	96.6	92.7	96.2	3.8	89.7	10.3	74.6	25.4	71.2	28.8	https://www.tescoplc.com/genderpay/	Charles Wilson (Chief Executive, Booker)	Less than 250	RITTER-COURIVAUD LIMITED	False	05/04/2019 00:00:00	12/03/2019 12:18:31
+2757	The Donaldson Trust	"Preston Road,
+Linlithgow,
+EH49 6HZ"		1	-10.4	-45.8	-100.0	-100.0	0.0	100.0	16.7	83.3	50.0	50.0	14.3	85.7	16.7	83.3			Less than 250	The Donaldson Trust	False	31/03/2019 00:00:00	06/11/2018 17:30:06
+3074	WALKERS SNACKS LIMITED	"450 South Oak Way,
+Green Park,
+Reading,
+United Kingdom,
+RG2 6UW"	03474989	82990	-11.3	-44.3	28.9	-63.7	58.2	48.4	80.0	20.0	63.0	37.0	52.0	48.0	56.0	44.0	http://pepsico.co.uk/docs/album/UK_Corporate_Reporting/pepsico-uk-and-ireland--gender-pay-gap-report-2018	Marisa Lorch (HR Director - Commercial)	250 to 499	WALKERS SNACKS LIMITED	False	05/04/2019 00:00:00	04/03/2019 09:33:42
+339	BOOKER RETAIL PARTNERS (GB) LIMITED	"Equity House,
+Irthlingborough Road,
+Wellingborough,
+Northamptonshire,
+United Kingdom,
+NN8 1LT"	06460554	46390	-21.6	-41.3	66.0	95.2	80.8	57.8	89.4	10.6	92.0	8.0	61.7	38.3	71.9	28.1	https://www.tescoplc.com/genderpay/	Charles Wilson (Chief Executive, Booker)	1000 to 4999	BOOKER RETAIL PARTNERS (GB) LIMITED	False	05/04/2019 00:00:00	12/03/2019 12:16:27
+11	AB INBEV UK LIMITED	"Porter Tun House,
+500 Capability Green,
+Luton,
+Bedfordshire,
+United Kingdom,
+LU1 3LS"	03982132	11050	-31.0	-39.0	-49.0	-160.0	60.0	64.0	87.0	13.0	92.0	8.0	75.0	25.0	66.0	34.0	https://ab-inbev.co.uk/about/our-promise/policies/	Claire Richardson (People Director)	1000 to 4999	AB INBEV UK LIMITED	False	05/04/2019 00:00:00	22/03/2019 10:45:36

@@ -1,0 +1,50 @@
+	EmployerName	Address	CompanyNumber	SicCodes	DiffMeanHourlyPercent	DiffMedianHourlyPercent	DiffMeanBonusPercent	DiffMedianBonusPercent	MaleBonusPercent	FemaleBonusPercent	MaleLowerQuartile	FemaleLowerQuartile	MaleLowerMiddleQuartile	FemaleLowerMiddleQuartile	MaleUpperMiddleQuartile	FemaleUpperMiddleQuartile	MaleTopQuartile	FemaleTopQuartile	CompanyLinkToGPGInfo	ResponsiblePerson	EmployerSize	CurrentName	SubmittedAfterTheDeadline	DueDate	DateSubmitted
+2551	ST HILDA’S CATHOLIC ACADEMY TRUST	"Trinity Catholic College,
+Saltersgill Avenue,
+Middlesbrough,
+TS4 3JW"	09811711	"1,
+85200,
+85310"	43.3	60.7	0.0	0.0	0.0	0.0	34.8	65.2	14.2	85.8	10.2	89.8	3.0	97.0	https://npcat.org.uk		500 to 999	ST HILDA’S CATHOLIC ACADEMY TRUST	False	31/03/2019 00:00:00	11/03/2019 17:46:04
+1978	Ocean Learning Trust	"Bethany Church Of England Junior School, Knole Road,
+Boscombe,
+United Kingdom,
+BH1 4DJ"	09628750	"1,
+85200"	39.9	60.8	0.0	0.0	0.0	0.0	8.8	91.2	7.3	92.7	8.8	91.2	24.6	75.4	http://www.oceanlearningtrust.co.uk/		250 to 499	Ocean Learning Trust	False	31/03/2019 00:00:00	12/03/2019 10:33:33
+851	EBECS LIMITED	"Royal Pavilion,
+Wellesley Road,
+Aldershot,
+Hampshire,
+England,
+GU11 1PZ"	06058559	"62020,
+62090"	48.0	62.0	100.0	58.0	40.0	35.0	54.0	46.0	81.0	19.0	80.0	20.0	90.0	10.0	https://www.dxc.technology/uki/ds/11507/146310-dxc_technology_gender_pay_gap_report	Louisa Allison (HR Director)	250 to 499	EBECS LIMITED	False	05/04/2019 00:00:00	13/03/2019 16:52:31
+2489	South Orpington Learning Alliance Multi-Academy Trust	"Tubbenden Primary School,
+Tubbenden Primary School,
+Sandy Bury,
+BR6 9SD"	07943613	"1,
+85100,
+85200"	44.8	63.2	0.0	0.0	0.0	0.0	1.0	99.0	5.0	95.0	10.0	90.0	15.0	85.0	http://www.solamat.co.uk/		250 to 499	South Orpington Learning Alliance Multi-Academy Trust	False	31/03/2019 00:00:00	14/03/2019 13:21:12
+106	AMEC FOSTER WHEELER EARTH AND ENVIRONMENTAL (UK) LIMITED	"Booths Park, Chelford Road,
+Knutsford,
+Cheshire,
+WA16 8QZ"	04987981	9900	49.4	64.8	100.0	100.0	36.4	0.0	50.0	50.0	100.0	0.0	66.7	33.3	100.0	0.0	https://www.woodplc.com/policies-and-notices/gender-pay-gap	Sue MacDonald (Executive President - People & Organisation)	Less than 250	AMEC FOSTER WHEELER EARTH AND ENVIRONMENTAL (UK) LIMITED	False	05/04/2019 00:00:00	25/02/2019 09:50:28
+1781	MINT PAY SOLUTIONS LTD	"Windfall House D1, The Courtyard, Alban Park,
+St. Albans,
+Hertfordshire,
+AL4 0LA"	08189359	"42120,
+82990"	59.0	65.0	0.0	0.0	0.0	0.0	97.0	3.0	97.0	3.0	96.0	4.0	99.0	1.0	https://www.mintpaysolutions.co.uk/index.php/gender-pay-gap	Mohamed El-Bassyouni (Managing Director)	250 to 499	MINT PAY SOLUTIONS LTD	False	05/04/2019 00:00:00	14/03/2019 12:27:09
+2750	The Dayspring Trust	"The Venerable Bede C Of E Academy,
+Tunstall Bank,
+Sunderland,
+SR2 0SX"		"1,
+85310"	24.0	66.0			0.0	0.0	25.0	75.0	26.0	74.0	29.0	71.0	27.0	73.0			250 to 499	The Dayspring Trust	False	31/03/2019 00:00:00	21/03/2019 11:47:18
+2245	RMET	"Rainham Mark Grammar School, Pump Lane,
+Gillingham,
+Kent,
+ME8 7AJ"	07654628	85310	38.0	66.0	0.0	0.0	0.0	0.0	4.8	95.2	8.0	92.0	33.3	66.7	47.6	52.4		Simon Decker (CEO)	250 to 499	RMET	False	05/04/2019 00:00:00	06/03/2019 13:04:28
+2382	SEYMOUR HOUSE LTD.	"Seymour House, 140 Broomfield Road,
+Chelmsford,
+Essex,
+CM1 1RN"	02101313	85100	58.0	66.0	0.0	0.0	0.0	5.0	1.0	99.0	0.0	100.0	0.0	100.0	5.0	95.0		Pippa Dennitts (Group HR Director)	250 to 499	SEYMOUR HOUSE LTD.	False	05/04/2019 00:00:00	22/02/2019 12:43:42
+3037	VIDA HEALTHCARE LIMITED	"The Power House, 156 Hookstone Drive,
+Harrogate,
+HG2 8PF"	09106261	41100	70.4	79.3	0.0	0.0	0.0	0.0	0.0	100.0	0.0	100.0	33.0	67.0	50.0	50.0		James Rycroft (Managing Director)	250 to 499	VIDA HEALTHCARE LIMITED	False	05/04/2019 00:00:00	18/03/2019 11:10:56

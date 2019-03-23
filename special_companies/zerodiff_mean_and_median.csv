@@ -1,0 +1,134 @@
+	EmployerName	Address	CompanyNumber	SicCodes	DiffMeanHourlyPercent	DiffMedianHourlyPercent	DiffMeanBonusPercent	DiffMedianBonusPercent	MaleBonusPercent	FemaleBonusPercent	MaleLowerQuartile	FemaleLowerQuartile	MaleLowerMiddleQuartile	FemaleLowerMiddleQuartile	MaleUpperMiddleQuartile	FemaleUpperMiddleQuartile	MaleTopQuartile	FemaleTopQuartile	CompanyLinkToGPGInfo	ResponsiblePerson	EmployerSize	CurrentName	SubmittedAfterTheDeadline	DueDate	DateSubmitted
+7	A KHAN RESTAURANTS LIMITED	"2nd Floor Bradburn House,
+64-68 Northumberland Street,
+Newcastle,
+Tyneside,
+United Kingdom,
+NE1 7DF"	08132730	56103	0.0	0.0			0.0	0.0	49.0	51.0	42.0	58.0	51.0	49.0	44.0	56.0		Ahmed Khan (Franchisee)	250 to 499	A KHAN RESTAURANTS LIMITED	False	05/04/2019 00:00:00	22/03/2019 10:46:39
+44	ADDITIONS (U.K.) LIMITED	"Coach House Huxley Street, Broadheath,
+Altrincham,
+England,
+WA14 5EY"	01945425	78200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	100.0	0.0	100.0	0.0	100.0	0.0	100.0		Bernadette Coxon (Accounts)	500 to 999	ADDITIONS (U.K.) LIMITED	False	05/04/2019 00:00:00	05/04/2018 21:32:14
+492	CARE AT HOME SERVICES (SOUTH EAST) LIMITED	"1, Cooden Sea Road,
+Little Common,
+Bexhill-On-Sea,
+East Sussex,
+TN39 4SJ"	05317196	88100	0.0	0.0	0.0	0.0	0.0	0.0	10.2	89.8	15.8	84.2	13.9	86.1	4.8	95.2		Graham Smith (Finance Manager)	250 to 499	CARE AT HOME SERVICES (SOUTH EAST) LIMITED	False	05/04/2019 00:00:00	11/03/2019 09:36:14
+519	CAVITY DENTAL STAFF AGENCY LTD	"49, St. Peters Road,
+Reading,
+RG6 1NT"	08941295	86230	0.0	0.0	0.0	0.0	100.0	100.0	30.0	70.0	20.0	80.0	20.0	80.0	0.0	100.0	https://www.cavitydentalstaff.co.uk/join-our-team/	Sharon Dunne (Director)	250 to 499	CAVITY DENTAL STAFF AGENCY LTD	False	05/04/2019 00:00:00	29/10/2018 15:01:59
+593	CLARE ASSOCIATES LIMITED	"Moorland Butts, Chilsworthy,
+Gunnislake,
+Cornwall,
+PL18 9PB"	04453296	62020	0.0	0.0	0.0	0.0	0.0	0.0	100.0	0.0	100.0	0.0	0.0	100.0	0.0	100.0		Mark Poles (Director)	Less than 250	CLARE ASSOCIATES LIMITED	False	05/04/2019 00:00:00	10/04/2018 09:43:48
+713	CYCLE TRAINING UK LIMITED	"Arch16 Almond Road,,
+London,
+England,
+SE16 3LR"	04369994	96090	0.0	0.0	0.0	0.0	0.0	0.0	58.1	41.9	58.1	41.9	58.1	41.9	58.1	41.9		Melanie de Villiers (Finance Manager)	Less than 250	CYCLE TRAINING UK LIMITED	False	05/04/2019 00:00:00	09/04/2018 18:41:59
+718	D.G.F. LIMITED	"66 Pembroke Gardens,
+Wellesbourne,
+Warwickshire,
+United Kingdom,
+CV35 9PX"	03440835	78300	0.0	0.0	0.0	0.0	43.0	89.0	74.0	26.0	75.0	25.0	97.0	3.0	94.0	6.0		Antoinette Mulcahy (Managing Director)	500 to 999	D.G.F. LIMITED	False	05/04/2019 00:00:00	14/01/2019 09:40:57
+909	Erskine Hospital	"C/O T C Young,
+7 West George Street,
+Glasgow,
+United Kingdom,
+G2 1BA"	SC174103	"86102,
+87300"	0.0	0.0	0.0	0.0	0.0	0.0	24.2	75.8	25.5	74.5	15.8	84.2	25.6	74.4		Jane Scobie (Director of HR & OD)	500 to 999	Erskine Hospital	False	05/04/2019 00:00:00	09/01/2019 14:45:07
+1239	Hflc Restaurants Ltd	"19 Saddlers Close,
+Glenfield,
+Leicester,
+England,
+LE3 8QU"	09798825	56102	0.0	0.0	30.0	39.0	12.0	13.0	45.0	55.0	45.0	55.0	46.0	54.0	48.0	52.0		Dean Chapman (Franchisee)	250 to 499	Hflc Restaurants Ltd	False	05/04/2019 00:00:00	11/03/2019 16:31:55
+1404	JAAM RESTAURANTS LTD	"52, Main Road Middleton Cheney,
+Banbury,
+United Kingdom,
+OX17 2LT"	10983155	47290	0.0	0.0	17.0	60.0	9.0	14.0	42.0	58.0	41.0	59.0	32.0	68.0	66.0	34.0		Joanne Jones (Franchisee)	250 to 499	JAAM RESTAURANTS LTD	False	05/04/2019 00:00:00	14/03/2019 16:15:22
+1448	KABY ENGINEERS LIMITED	"14-16 Upper Charnwood Street,
+Leicester,
+United Kingdom,
+LE2 0AU"	01211144	25110	0.0	0.0	0.0	0.0	0.0	0.0	100.0	0.0	100.0	0.0	93.7	6.3	84.4	15.6		Stephen Evans (Finance Manager)	250 to 499	KABY ENGINEERS LIMITED	False	05/04/2019 00:00:00	11/04/2018 14:35:31
+1588	LIQUID FRIDAY LIMITED	"The Port House Marina Keep,
+Port Solent,
+Portsmouth,
+England,
+PO6 4TH"	05887477	82990	0.0	0.0	62.0	-23.6	99.7	99.8	81.4	18.6	77.9	22.1	53.2	46.8	51.9	48.1		Joe Taffurelli (Head of Group Operations)	1000 to 4999	LIQUID FRIDAY LIMITED	False	05/04/2019 00:00:00	23/01/2019 11:15:02
+1606	LOCHLYN TOREY LIMITED	"Unit 15, Basepoint Waterlooville,
+Waterberry Drive,
+Waterlooville,
+Hampshire,
+PO7 7TH"	08876832	82990	0.0	0.0	0.0	0.0	0.0	0.0	96.4	3.6	96.4	3.6	96.5	3.5	96.4	3.6	http://lochlyntorey.co.uk	Ian Barrett (Finance Director)	500 to 999	LOCHLYN TOREY LIMITED	False	05/04/2019 00:00:00	06/04/2018 08:19:42
+1626	LONGACRES GARDEN CENTRE LIMITED	"Longacres Nursery,
+London Road,
+Bagshot,
+Surrey,
+United Kingdom,
+GU19 5JB"	07689770	47760	0.0	0.0	0.0	0.0	0.0	0.0	52.3	47.7	42.1	57.9	29.9	70.1	39.3	60.7		Jamie Lewis (Payroll Manager)	250 to 499	LONGACRES GARDEN CENTRE LIMITED	False	05/04/2019 00:00:00	20/11/2018 15:10:04
+1650	M E & A OLIVER LIMITED	"75, High Street,
+Boston,
+Lincolnshire,
+England,
+PE21 8SX"	06850410	78109	0.0	0.0	0.0	0.0	0.0	0.0	63.0	37.0	63.0	37.0	63.0	37.0	63.0	37.0		Alexander Fox (Director)	250 to 499	M E & A OLIVER LIMITED	False	05/04/2019 00:00:00	04/06/2018 16:23:45
+1746	MICHA DESIGN COMPANY LIMITED(THE)	"Unit 1, Bridgegate Business Park,
+Gatehouse Way,
+Aylesbury,
+Buckinghamshire,
+HP19 8XN"	02072488	27900	0.0	0.0	0.0	0.0	100.0	100.0	50.0	50.0	50.0	50.0	50.0	50.0	66.0	34.0		Spencer Cocomazzi (General Manager)	Less than 250	MICHA DESIGN COMPANY LIMITED(THE)	False	05/04/2019 00:00:00	11/04/2018 13:06:26
+1829	MRS RECRUITMENT LIMITED	"Unit E2 Boston Industrial Centre, Norfolk Street,
+Boston,
+Lincs,
+England,
+PE21 9HG"	08642015	78200	0.0	0.0	0.0	0.0	0.0	0.0	40.0	60.0	40.0	60.0	30.0	70.0	40.0	60.0		Viktorija Vaitiekune (Managing Director)	250 to 499	MRS RECRUITMENT LIMITED	False	05/04/2019 00:00:00	19/03/2019 09:13:17
+1882	NEW BEGINNINGS (NORTH EAST) LIMITED	"1, The Meadows,
+Newcastle Upon Tyne,
+NE3 3NA"	03086013	88100	0.0	0.0	0.0	0.0	100.0	100.0	40.0	60.0	25.0	75.0	31.0	69.0	28.0	72.0	http://www.nbneltd.co.uk	Trevor Gray (Director)	250 to 499	NEW BEGINNINGS (NORTH EAST) LIMITED	False	05/04/2019 00:00:00	11/03/2019 12:14:24
+1940	Northgate Restaurants Ltd	"Mcdonalds Restaurant Staduim Retail Park,
+Old Seals Way,
+Chester,
+United Kingdom,
+CH1 4RY"	04268921	56102	0.0	0.0	11.0	0.0	9.0	10.0	58.0	42.0	49.0	51.0	48.0	52.0	62.0	38.0		Jeanette Roe (Director)	250 to 499	Northgate Restaurants Ltd	False	05/04/2019 00:00:00	04/03/2019 16:56:18
+2030	PARK HOMES (UK) LIMITED	"50 Brantwood Oval,
+Bradford,
+West Yorkshire,
+United Kingdom,
+BD9 6QP"	03349379	82990	0.0	0.0	0.0	0.0	0.0	0.0	2.0	98.0	3.0	97.0	2.0	98.0	6.0	94.0		Amjad Hussain (Payroll)	250 to 499	PARK HOMES (UK) LIMITED	False	05/04/2019 00:00:00	13/03/2019 15:37:15
+2110	PREMIER CARE LIMITED	"Premier House Union Street,
+Pendlebury, Swinton,
+Manchester,
+United Kingdom,
+M27 4HL"	05213770	88100	0.0	0.0	0.0	0.0	1.0	2.0	10.0	90.0	25.0	75.0	20.0	80.0	50.0	50.0		John Regan (Director)	1000 to 4999	PREMIER CARE LIMITED	False	05/04/2019 00:00:00	09/04/2018 14:51:42
+2447	SMCSM LIMITED	"Glebelands Ct 10 Glebelands Road, Sale,
+Cheshire,
+M33 6LB"	08056505	81210	0.0	0.0	0.0	0.0	0.0	0.0	33.0	67.0	17.0	83.0	33.0	67.0	80.0	20.0		Becky Bates (Admin Manager)	250 to 499	SMCSM LIMITED	False	05/04/2019 00:00:00	25/02/2019 16:44:25
+2517	SPEEDY TRANSPORT LIMITED	"Chase House 16 The Parks, Newton Le Willows,
+Merseyside,
+WA12 0JQ"	04408263	77390	0.0	0.0	0.0	0.0	81.0	0.0	100.0	0.0	100.0	0.0	100.0	0.0	100.0	0.0	https://www.speedyservices.com/corporate-social-responsibility	Cathy Dawson (HR Director)	500 to 999	SPEEDY TRANSPORT LIMITED	False	05/04/2019 00:00:00	07/02/2019 16:33:00
+2763	The Engage Multi Academy Trust	"Drayton Old Lodge Drayton High Road,
+Drayton,
+Norwich,
+England,
+NR8 6AN"	08699493	"1,
+85590"	0.0	0.0			0.0	0.0	28.4	71.6	16.7	83.3	25.4	74.6	27.3	72.7			250 to 499	The Engage Multi Academy Trust	False	31/03/2019 00:00:00	22/03/2019 14:26:44
+2898	TOMASZDYL PR LTD	"11, College Place,
+Southampton,
+SO15 2FE"	07915403	"73110,
+78109"	0.0	0.0	0.0	0.0	0.0	0.0	50.0	50.0	50.0	50.0	50.0	50.0	50.0	50.0		John Stoffel (Business Development Manager)	1000 to 4999	TOMASZDYL PR LTD	False	05/04/2019 00:00:00	05/04/2018 13:00:39
+2924	TRIANGLE WHOLEFOODS COLLECTIVE LIMITED	"Unit G15 lacy Way,
+Lowfields Business Park,
+Elland,
+HX5 9DB"	IP21975R		0.0	0.0			0.0	0.0	65.1	34.9	65.1	34.9	65.1	34.9	65.6	34.4	http://www.suma.coop/about/faq/gender-pay-gap/	Nicola Roebuck-Rouse (Service Area Coordinator)	250 to 499	TRIANGLE WHOLEFOODS COLLECTIVE LIMITED	False	05/04/2019 00:00:00	20/03/2019 08:45:31
+3161	WILSON GIBB MANAGEMENT SERVICES LIMITED	"31/33, Albert Street,
+Motherwell,
+Lanarskhire,
+ML1 1PR"	SC140165	78200	0.0	0.0	0.0	0.0	100.0	100.0	50.0	50.0	50.0	50.0	50.0	50.0	50.0	50.0		Heather Coulthard (Training & Development Manager)	250 to 499	WILSON GIBB MANAGEMENT SERVICES LIMITED	False	05/04/2019 00:00:00	11/02/2019 15:25:32
+3166	WISE SECURITY SERVICES LIMITED	"Heritage House, 34b North Cray Road,
+Bexley,
+Kent,
+DA5 3LZ"	04946364	84240	0.0	0.0	0.0	0.0	0.0	0.0	83.0	17.0	72.0	28.0	79.0	21.0	74.0	26.0		James Wise (Managing Director)	250 to 499	WISE SECURITY SERVICES LIMITED	False	05/04/2019 00:00:00	15/10/2018 11:01:32
+3167	WITH YOU LIMITED	"Hays Business Centre,
+4 Hay Avenue,
+Edinburgh,
+Scotland,
+EH16 4AQ"	SC120135	"88100,
+88990"	0.0	0.0			0.0	0.0	31.1	68.9	30.8	69.2	28.5	71.5	30.8	69.2	https://www.withyou.support	Caron Duffus (Head of Human Resources)	250 to 499	WITH YOU LIMITED	False	05/04/2019 00:00:00	20/03/2019 12:54:37
